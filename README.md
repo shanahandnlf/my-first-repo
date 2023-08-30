@@ -6,4 +6,4 @@ Kelas   : PBP F
 
 Hobi	: Tidur
 
-Jurusan	: Ilmu Sistem Informasi Komputer
+Jurusan	: Ilmu Komputer
